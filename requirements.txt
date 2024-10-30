@@ -1,0 +1,8 @@
+mpi4py
+opencv-python
+numpy
+pyautogui
+mpi4py
+opencv-python
+numpy
+pyautogui
