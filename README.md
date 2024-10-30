@@ -81,20 +81,5 @@ Contributions to the project are welcome! Feel free to submit issues or pull req
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-### Key Sections in the README
 
-- **Features**: Highlights the key functionalities of the application.
-- **Requirements**: Lists the necessary software and libraries needed to run the application.
-- **Installation**: Provides step-by-step instructions on how to set up the application.
-- **Usage**: Describes how to run the master and slave applications, as well as how to stop them.
-- **How It Works**: Gives an overview of the underlying mechanics of the application.
-- **Logging**: Explains the logging system implemented for debugging and maintenance.
-- **Error Handling**: Discusses how the application manages potential errors.
-- **Contribution**: Encourages others to contribute to the project.
-- **License**: Mentions the licensing of the project.
-
-### Additional Notes
-
-- Adjust the license section according to the actual license you decide to use for your project.
-- Consider adding screenshots or diagrams if you feel they would help users understand the application better.
 
